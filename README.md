@@ -1,4 +1,4 @@
-#SAOSP-L Bug Tracker
+#Blazing Rom Bug Tracker
 ------------------------
 
 ###How to report an issue
